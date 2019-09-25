@@ -8,6 +8,7 @@
     "dotenv": "8.1.0",
     "enzyme": "3.8.0",
     "enzyme-adapter-react-16": "1.9.1",
+    "eslint": "^6.4.0",
     "jest-mock": "24.0.0",
     "jsonwebtoken": "8.4.0",
     "node-sass": "^4.11.0",
@@ -25,12 +26,20 @@
     "superagent": "4.1.0",
     "superagent-mock": "3.7.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-plugin-jest": "^22.17.0"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "lint": "eslint '**/*.js' --fix"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
