@@ -5,8 +5,7 @@
 ### Author: Lillian Gales
 
 ### Links and Resources
-* [travis](http://xyz.com)
-* [front-end](https://lab31-hooks-app.herokuapp.com/) (when applicable)
+* [front-end](https://lab31-hooks-app.herokuapp.com/)
 
 ### Modules
 #### `auth.js`
