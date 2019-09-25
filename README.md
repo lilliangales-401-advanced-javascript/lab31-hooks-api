@@ -6,8 +6,7 @@
 
 ### Links and Resources
 * [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [front-end](https://lab31-hooks-app.herokuapp.com/) (when applicable)
 
 ### Modules
 #### `auth.js`
