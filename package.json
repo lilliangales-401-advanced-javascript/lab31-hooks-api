@@ -11,7 +11,7 @@
     "eslint": "^6.4.0",
     "jest-mock": "24.0.0",
     "jsonwebtoken": "8.4.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "react": "16.8.1",
     "react-cookies": "0.1.0",
     "react-dom": "16.8.1",
